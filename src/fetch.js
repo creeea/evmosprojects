@@ -10,6 +10,9 @@ async function get_data(){
 async function create_cards(data, click_var){
     var row = document.querySelector(".row")
     row.innerHTML = ''
+    
+    var project_counter_html = document.querySelector(".lead.text-muted.text-center")    
+    var project_counter = 0;
 
         for (const property in data) {
             console.log(click_var)
@@ -103,7 +106,9 @@ async function create_cards(data, click_var){
         `
         row.innerHTML += project_card
 
-    
+        project_counter += 1;
+        project_counter_html.innerText=`${click_var} projects: ${project_counter}`
+
 }
 
 }

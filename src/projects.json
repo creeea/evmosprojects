@@ -2,7 +2,7 @@
     "Diffusion":
     {
     "title":"Uniswap v2",
-    "category":"DeFi",
+    "category":"defi",
     "content":"Diffusion is a Uniswap v2 fork. It’ll be one of the first AMMs for Evmos, an EVM on Cosmos that leverages the Cosmos SDK to enable use cases around composability, interoperability, and fast-finality.",
     "website":"https://medium.com/@diffusion_fi",
     "twitter":"https://twitter.com/diffusion_fi",
@@ -11,7 +11,7 @@
     "Aave":
     {
     "title":"Aave",
-    "category":"Defi",
+    "category":"defi",
     "content":"Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets. Evmos will also enable cross-chain applications to leverage AAVE’s liquidity while being deployed to other Cosmos chains such as Terra.",
     "website":"https://aave.com/",
     "twitter":"https://twitter.com/aaveaave",
@@ -38,7 +38,7 @@
     "Metalancer":
     {
     "title":"Metalancer",
-    "category":"Defi",
+    "category":"defi",
     "content":"Metalancer is a Balancer V1 fork. An automated portfolio manager and trading platform",
     "website":"https://aave.com/",
     "twitter":"https://twitter.com/aaveaave",
@@ -47,8 +47,8 @@
     "Erc20 Module":
     {
     "title":"Erc20 Module",
-    "category":"Protocol",
-    "content":"Our ERC20 module allows DeFi protocols to seamlessly integrate with Evmos and the Cosmos ecosystem. Using the x/erc20 module, developers can build smart contracts on Evmos and use the generated tokens for other applications in the Cosmos ecosystem",
+    "category":"protocol",
+    "content":"Our ERC20 module allows defi protocols to seamlessly integrate with Evmos and the Cosmos ecosystem. Using the x/erc20 module, developers can build smart contracts on Evmos and use the generated tokens for other applications in the Cosmos ecosystem",
     "website":"",
     "twitter":"https://twitter.com/coslend",
     "telegram":""},
@@ -71,10 +71,29 @@
     "twitter":"https://twitter.com/coslend",
     "telegram":""},
 
+    "MetaMask":
+    {
+    "title":"MetaMask",
+    "category":"wallet",
+    "content":"MetaMask is an extension for accessing Evmos (EVM) enabled distributed applications, or 'Dapps' in your browser",
+    "website":"https://metamask.io/",
+    "twitter":"https://twitter.com/metamask/",
+    "telegram":""},
+
+    "Keplr":
+    {
+    "title":"Keplr",
+    "category":"wallet",
+    "content":"Keplr Wallet is the first, and leading, IBC-enabled wallet for the Cosmos ecosystem. Stake your tokens, start using blockchain apps, and manage tokens in just one wallet.",
+    "website":"https://www.keplr.app/",
+    "twitter":"https://twitter.com/keplrwallet",
+    "telegram":""},
+
+
     "UMA":
     {
     "title":"UMA",
-    "category":"DeFi",
+    "category":"defi",
     "content":"UMA’s optimistic oracle service will equip Evmos developers with decentralized and battle tested optimistic oracles to integrate within decentralized applications. ",
     "website":"https://umaproject.org/",
     "twitter":"https://twitter.com/umaprotocol",
