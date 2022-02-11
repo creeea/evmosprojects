@@ -1,0 +1,102 @@
+{
+    "Diffusion":
+    {
+    "title":"Uniswap v2",
+    "category":"DeFi",
+    "content":"Diffusion is a Uniswap v2 fork. It’ll be one of the first AMMs for Evmos, an EVM on Cosmos that leverages the Cosmos SDK to enable use cases around composability, interoperability, and fast-finality.",
+    "website":"https://medium.com/@diffusion_fi",
+    "twitter":"https://twitter.com/diffusion_fi",
+    "telegram":"https://t.co/zyhlPO5Ucy"},
+
+    "Aave":
+    {
+    "title":"Aave",
+    "category":"Defi",
+    "content":"Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets. Evmos will also enable cross-chain applications to leverage AAVE’s liquidity while being deployed to other Cosmos chains such as Terra.",
+    "website":"https://aave.com/",
+    "twitter":"https://twitter.com/aaveaave",
+    "telegram":"https://t.me/Aavesome"},
+
+    "Coinbase Cloud":
+    {
+    "title":"Coinbase Cloud",
+    "category":"tools",
+    "content":"Coinbase Cloud will provide Evmos developers with a high-throughput and reliable RPC cluster capable of handling at least five million calls a day. Developers will have the ability to subscribe to events utilizing an Ethereum Websocket that is exposed on their RPC cluster, allowing them to seamlessly port over their existing dApp workflows onto Evmos.",
+    "website":"",
+    "twitter":"https://twitter.com/nomadxyz_",
+    "telegram":""},
+
+    "Nomad x Connext":
+    {
+    "title":"Nomad x Connext",
+    "category":"tools",
+    "content":"With Nomad and Connext, institutions and end-users will be able to send value and call data between the Ethereum and Evmos ecosystems. This will allow Ethereum and other EVM chains’ ERC-20 tokens to be available on Evmos and subsequently the entire Cosmos ecosystem via IBC.",
+    "website":"",
+    "twitter":"https://twitter.com/nomadxyz_",
+    "telegram":""},
+
+    "Metalancer":
+    {
+    "title":"Metalancer",
+    "category":"Defi",
+    "content":"Metalancer is a Balancer V1 fork. An automated portfolio manager and trading platform",
+    "website":"https://aave.com/",
+    "twitter":"https://twitter.com/aaveaave",
+    "telegram":"https://t.me/Aavesome"},
+    
+    "Erc20 Module":
+    {
+    "title":"Erc20 Module",
+    "category":"Protocol",
+    "content":"Our ERC20 module allows DeFi protocols to seamlessly integrate with Evmos and the Cosmos ecosystem. Using the x/erc20 module, developers can build smart contracts on Evmos and use the generated tokens for other applications in the Cosmos ecosystem",
+    "website":"",
+    "twitter":"https://twitter.com/coslend",
+    "telegram":""},
+    
+    "Coslend":
+    {
+    "title":"Coslend",
+    "category":"defi",
+    "content":"A lending protocol on Evmos based on Compound Finance.",
+    "website":"https://evmos.dev/modules/erc20/",
+    "twitter":"https://twitter.com/evmosorg",
+    "telegram":"https://t.me/EvmosOrg"},
+
+    "Cevmos":
+    {
+    "title":"Cevmos",
+    "category":"protocol",
+    "content":"Cevmos is an open, modular stack for EVM-based applications utilizing Celestia rollups. The Cevmos stack will center around an optimized settlement chain for rollups that is based on Evmos.",
+    "website":"",
+    "twitter":"https://twitter.com/coslend",
+    "telegram":""},
+
+    "UMA":
+    {
+    "title":"UMA",
+    "category":"DeFi",
+    "content":"UMA’s optimistic oracle service will equip Evmos developers with decentralized and battle tested optimistic oracles to integrate within decentralized applications. ",
+    "website":"https://umaproject.org/",
+    "twitter":"https://twitter.com/umaprotocol",
+    "telegram":""},
+
+    "KYVE":
+    {
+    "title":"KYVE",
+    "category":"protocol",
+    "content":"KYVE offers a decentralized blockchain storage solution that ensures data validity and availability.",
+    "website":"https://www.kyve.network/",
+    "twitter":"",
+    "telegram":""},
+
+    "Pocket Network":
+    {
+    "title":"Pocket Network",
+    "category":"tools",
+    "content":"Pocket Network is an RPC relay protocol that incentivizes Full-Node operators to provide accurate data and abundant bandwidth to decentralized applications.",
+    "website":"https://evmos.blog/introducing-cevmos-an-open-scalable-and-modular-stack-for-evm-based-applications-72930ce6b85c",
+    "twitter":"",
+    "telegram":""}
+    
+    
+}

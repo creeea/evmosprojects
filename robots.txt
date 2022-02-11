@@ -1,0 +1,4 @@
+Allow: /*
+Crawl-delay: 7
+
+Sitemap: https://evmosprojects.com/sitemap.xml
