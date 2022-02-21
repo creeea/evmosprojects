@@ -1,13 +1,5 @@
 {
-    "Diffusion":
-    {
-    "title":"Uniswap v2",
-    "category":"defi",
-    "content":"Diffusion is a Uniswap v2 fork. It’ll be one of the first AMMs for Evmos, an EVM on Cosmos that leverages the Cosmos SDK to enable use cases around composability, interoperability, and fast-finality.",
-    "website":"https://medium.com/@diffusion_fi",
-    "twitter":"https://twitter.com/diffusion_fi",
-    "telegram":"https://t.co/zyhlPO5Ucy"},
-
+    
     "Aave":
     {
     "title":"Aave",
@@ -16,6 +8,15 @@
     "website":"https://aave.com/",
     "twitter":"https://twitter.com/aaveaave",
     "telegram":"https://t.me/Aavesome"},
+
+    "Exswap":
+    {
+    "title":"Exswap",
+    "category":"defi",
+    "content":"Exswap is a community-focused Uniswap v2 fork launching on Evmos. Our goal is to be the #1 AMM and the go-to protocol for the Evmos ecosystem.",
+    "website":"https://medium.com/@exswap.xyz",
+    "twitter":"https://twitter.com/Exswapdotxyz",
+    "telegram":""},
 
     "Coinbase Cloud":
     {
@@ -26,6 +27,25 @@
     "twitter":"https://twitter.com/nomadxyz_",
     "telegram":""},
 
+    "Diffusion":
+    {
+    "title":"Diffusion Finance",
+    "category":"defi",
+    "content":"Diffusion is a Uniswap v2 fork. It’ll be one of the first AMMs for Evmos, an EVM on Cosmos that leverages the Cosmos SDK to enable use cases around composability, interoperability, and fast-finality.",
+    "website":"https://medium.com/@diffusion_fi",
+    "twitter":"https://twitter.com/diffusion_fi",
+    "telegram":"https://t.co/zyhlPO5Ucy"},
+
+    "NovaDAO":
+    {
+    "title":"NovaDAO",
+    "category":"defi",
+    "content":"NovaDAO is a reserve currency protocol and community built on the Cosmos Ecosystem. NovaDAO recognizes the early success of OlympusDAO in creating a decentralized reserve currency, and we have decided to bring this concept to Cosmos.",
+    "website":"https://medium.com/@Nova_DAO",
+    "twitter":"https://twitter.com/NovaDaoFinance",
+    "telegram":""},
+
+
     "Nomad x Connext":
     {
     "title":"Nomad x Connext",
@@ -35,22 +55,31 @@
     "twitter":"https://twitter.com/nomadxyz_",
     "telegram":""},
 
+    "Evmos.me":
+    {
+    "title":"Evmos.me",
+    "category":"wallet",
+    "content":"Evmos.me allows users to interact with both the Cosmos and Ethereum ecosystems through a single unified and intuitive interface. Evmos Rektdrop participants will also be claiming rewards via Evmos.me.",
+    "website":"https://evmos.me/",
+    "twitter":"",
+    "telegram":""},
+
     "Metalancer":
     {
     "title":"Metalancer",
     "category":"defi",
     "content":"Metalancer is a Balancer V1 fork. An automated portfolio manager and trading platform",
-    "website":"https://aave.com/",
-    "twitter":"https://twitter.com/aaveaave",
-    "telegram":"https://t.me/Aavesome"},
+    "website":"",
+    "twitter":"",
+    "telegram":""},
     
     "Erc20 Module":
     {
     "title":"Erc20 Module",
     "category":"protocol",
     "content":"Our ERC20 module allows defi protocols to seamlessly integrate with Evmos and the Cosmos ecosystem. Using the x/erc20 module, developers can build smart contracts on Evmos and use the generated tokens for other applications in the Cosmos ecosystem",
-    "website":"",
-    "twitter":"https://twitter.com/coslend",
+    "website":"https://github.com/tharsis/evmos/tree/main/x/erc20/spec",
+    "twitter":"",
     "telegram":""},
     
     "Coslend":
@@ -58,9 +87,27 @@
     "title":"Coslend",
     "category":"defi",
     "content":"A lending protocol on Evmos based on Compound Finance.",
-    "website":"https://evmos.dev/modules/erc20/",
-    "twitter":"https://twitter.com/evmosorg",
-    "telegram":"https://t.me/EvmosOrg"},
+    "website":"https://t.me/coslend",
+    "twitter":"",
+    "telegram":""},
+
+    "PhotonSwap":
+    {
+    "title":"PhotonSwap",
+    "category":"defi",
+    "content":"An AMM currently based on Uniswap v2 but working towards pancake to make it easier for vaults and other staking mechanism",
+    "website":"https://photonswap.finance/#/swap",
+    "twitter":"https://photonswap.finance/",
+    "telegram":""},
+
+    "DEXPAD":
+    {
+    "title":"DEXPAD",
+    "category":"defi",
+    "content":"DexPad.IO is multichain launchpad with many tools for new projects such as Token Minting, Token Launch, Lockers (LP & Token) and Airdroppers",
+    "website":"https://dexpad.io",
+    "twitter":"https://twitter.com/dexpad",
+    "telegram":"https://t.me/DexPadAnnouncements"},
 
     "Cevmos":
     {

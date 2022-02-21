@@ -11,7 +11,7 @@ async function create_cards(data, click_var){
     var row = document.querySelector(".row")
     row.innerHTML = ''
     
-    var project_counter_html = document.querySelector(".lead.text-muted.text-center")    
+    var project_counter_html = document.querySelector(".lead.text-center")    
     var project_counter = 0;
 
         for (const property in data) {
@@ -80,7 +80,7 @@ async function create_cards(data, click_var){
               }
             
 
-        const project_card = `
+        var project_card = `
         <div class="col-md-4" style="padding-top: 2.5%">
         <div class="card mb-4 box-shadow card h-100">
             <div class="card-header ">
@@ -95,9 +95,24 @@ async function create_cards(data, click_var){
             <div class="card-footer text-center">
             <small class="text float-left" align="left">${category}</small>
             <small class="text float-right" align="right">
-            <a type="button" class="btn btn-outline-secondary fa fa-globe" href='${website}' target="_blank"></a>
-            <a type="button" class="btn btn-outline-secondary fa fa-telegram" href='${telegram}' target="_blank"></a>
-            <a type="button" class="btn btn-outline-secondary fa fa-twitter" href='${twitter}' target="_blank"></a>
+            `
+            console.log("website is" + website)
+            if (website != ""){
+                console.log("website  empty")
+                project_card += ` <a type="button" class="btn btn-outline-secondary fa fa-globe" href='${website}' target="_blank"></a> &ensp;`
+
+            }
+
+            if (telegram != "") {
+                project_card += `<a type="button" class="btn btn-outline-secondary fa fa-telegram" href='${telegram}' target="_blank"></a> &ensp;`
+            }
+
+            if (twitter != "") {
+                project_card += `<a type="button" class="btn btn-outline-secondary fa fa-twitter" href='${twitter}' target="_blank"></a> &ensp;`
+            }
+           
+            project_card += `
+            
             </small>
        
             </div>
@@ -107,7 +122,7 @@ async function create_cards(data, click_var){
         row.innerHTML += project_card
 
         project_counter += 1;
-        project_counter_html.innerText=`${click_var} projects: ${project_counter}`
+        project_counter_html.innerText=`${click_var} cards: ${project_counter}`
 
 }
 
