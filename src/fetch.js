@@ -78,37 +78,36 @@ async function create_cards(data, click_var){
                 default:
                   continue
               }
-            
-
+        
         var project_card = `
         <div class="col-md-4" style="padding-top: 2.5%">
-        <div class="card text-white bg-dark mb-4 box-shadow card h-100">
-            <div class="card-header ">
+        <div class="card text-white bg-dark border-light mb-4 box-shadow shadow-sm h-100">
+            <div class="card-header" style="background-color: #272c30;">
             <img src="img/${property}.jpg" width="10%" align="right" style="margin:5px">
-            <h5 id="title" class="card-title" align="center" style="margin:5px">${title}</h5>
+            <h5 id="title" class="card-title" align="center" style="margin:5px;">${title}</h5>
             </div>
             
             <div class="card-body ">
             <p class="card-text">${content}</p>
             </div>  
          
-            <div class="card-footer text-center">
-            <small class="text float-left" align="left">${category}</small>
+            <div class="card-footer text-center" style="background-color: #272c30;">
+            <small class="text float-left" align="left" style="font-size: 16px; color: #249bde">${category}</small>
             <small class="text float-right" align="right">
             `
             console.log("website is" + website)
             if (website != ""){
                 console.log("website  empty")
-                project_card += ` <a type="button" class="btn btn-outline-secondary fa fa-globe" href='${website}' target="_blank"></a> &ensp;`
+                project_card += ` <a type="button" class="fa fa-globe fa-2x" style="color: #777b7e" href='${website}' target="_blank"></a> &ensp;`
 
             }
 
             if (telegram != "") {
-                project_card += `<a type="button" class="btn btn-outline-secondary fa fa-telegram text-light" href='${telegram}' target="_blank"></a> &ensp;`
+                project_card += `<a type="button" class="fa fa-telegram fa-2x" style="color: #777b7e" href='${telegram}' target="_blank"></a> &ensp;`
             }
 
             if (twitter != "") {
-                project_card += `<a type="button" class="btn btn-outline-secondary fa fa-twitter" href='${twitter}' target="_blank"></a> &ensp;`
+                project_card += `<a type="button" class="fa fa-twitter fa-2x" style="color: #777b7e" href='${twitter}' target="_blank"></a> &ensp;`
             }
            
             project_card += `
