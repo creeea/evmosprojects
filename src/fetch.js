@@ -82,7 +82,7 @@ async function create_cards(data, click_var){
 
         var project_card = `
         <div class="col-md-4" style="padding-top: 2.5%">
-        <div class="card mb-4 box-shadow card h-100">
+        <div class="card text-white bg-dark mb-4 box-shadow card h-100">
             <div class="card-header ">
             <img src="img/${property}.jpg" width="10%" align="right" style="margin:5px">
             <h5 id="title" class="card-title" align="center" style="margin:5px">${title}</h5>
@@ -104,7 +104,7 @@ async function create_cards(data, click_var){
             }
 
             if (telegram != "") {
-                project_card += `<a type="button" class="btn btn-outline-secondary fa fa-telegram" href='${telegram}' target="_blank"></a> &ensp;`
+                project_card += `<a type="button" class="btn btn-outline-secondary fa fa-telegram text-light" href='${telegram}' target="_blank"></a> &ensp;`
             }
 
             if (twitter != "") {

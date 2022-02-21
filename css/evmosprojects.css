@@ -2,6 +2,8 @@
   --jumbotron-padding-y: 3rem;
 }
 
+
+
 .jumbotron{
   padding-top: var(--jumbotron-padding-y);
   margin-bottom: 0;

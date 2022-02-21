@@ -45,6 +45,15 @@
     "twitter":"https://twitter.com/NovaDaoFinance",
     "telegram":""},
 
+    "FRAX":
+    {
+    "title":"FRAX",
+    "category":"defi",
+    "content":"FRAX provide users with greater accessibility to the DeFi ecosystem as stablecoins are pegged to fiat currencies but exist natively as cryptocurrency allowing for easy interaction with decentralized protocols. Evmos DeFi protocols will be able to integrate the FRAX stablecoin, offering users stability, reliability, and liquidity. ",
+    "website":"https://evmos.blog/frax-is-coming-to-evmos-61837abb2fa9",
+    "twitter":"https://twitter.com/fraxfinance",
+    "telegram":"https://t.me/fraxfinance"},
+
 
     "Nomad x Connext":
     {
@@ -98,6 +107,15 @@
     "content":"An AMM currently based on Uniswap v2 but working towards pancake to make it easier for vaults and other staking mechanism",
     "website":"https://photonswap.finance/#/swap",
     "twitter":"https://photonswap.finance/",
+    "telegram":""},
+
+    "Midas Capita1":
+    {
+    "title":"Midas Capita1",
+    "category":"defi",
+    "content":"Rari Fork for Lending, borrowing & yield for DeFi",
+    "website":"x",
+    "twitter":"https://twitter.com/MidasCapita1",
     "telegram":""},
 
     "DEXPAD":
