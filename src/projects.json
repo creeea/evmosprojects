@@ -154,6 +154,15 @@
     "twitter":"https://twitter.com/metamask/",
     "telegram":""},
 
+    "Cronus Finance":
+    {
+    "title":"Cronus Finance",
+    "category":"defi",
+    "content":"Cronus Finance is a fully permissionless and composable AMM built on Evmos.",
+    "website":"https://medium.com/@cronusfinance/announcing-cronus-finance-aa5579889060",
+    "twitter":"https://twitter.com/CronusFinance",
+    "telegram":""},
+
     "Keplr":
     {
     "title":"Keplr",
