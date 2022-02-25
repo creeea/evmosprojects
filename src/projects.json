@@ -136,6 +136,15 @@
     "twitter":"https://twitter.com/dexpad",
     "telegram":"https://t.me/DexPadAnnouncements"},
 
+    "Evmos Stats":
+    {
+    "title":"Evmos Stats",
+    "category":"tools",
+    "content":"Evmos blockchain stats about validators, inflation, bonded tokens and many more parameters.",
+    "website":"https://evmostats.io/",
+    "twitter":"",
+    "telegram":""},
+    
     "Cevmos":
     {
     "title":"Cevmos",
