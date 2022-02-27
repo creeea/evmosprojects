@@ -90,6 +90,15 @@
     "website":"",
     "twitter":"",
     "telegram":""},
+
+    "Expanding space":
+    {
+    "title":"Expanding space",
+    "category":"nft",
+    "content":"Expanding space is the first NFT marketplace created from scratch on Evmos. It gives you the opportunity to freely interact with your NFT, while leaving the lowest possible commissions.",
+    "website":"https://expanding.space",
+    "twitter":"https://twitter.com/expanding_space",
+    "telegram":"https://t.me/expandingspace"},
     
     "Erc20 Module":
     {
