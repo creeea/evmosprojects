@@ -27,6 +27,15 @@
     "twitter":"https://twitter.com/nomadxyz_",
     "telegram":""},
 
+    "Kinesis Labs":
+    {
+    "title":"Kinesis Labs",
+    "category":"defi",
+    "content":"Kinesis is the first stableswap on Evmos, aiming to bring the 180B stablecoin market to Cosmos. We allow users to swap stablecoins for other stablecoins at the lowest fees and the lowest slippage.",
+    "website":"https://kinesislabs.co/",
+    "twitter":"https://twitter.com/KinesisLabs",
+    "telegram":""},
+
     "Diffusion":
     {
     "title":"Diffusion Finance",
@@ -45,6 +54,7 @@
     "twitter":"https://twitter.com/NovaDaoFinance",
     "telegram":""},
 
+
     "FRAX":
     {
     "title":"FRAX",
@@ -53,6 +63,15 @@
     "website":"https://evmos.blog/frax-is-coming-to-evmos-61837abb2fa9",
     "twitter":"https://twitter.com/fraxfinance",
     "telegram":"https://t.me/fraxfinance"},
+
+    "Treasureland":
+    {
+    "title":"Treasureland",
+    "category":"nft",
+    "content":"Treasureland is a cross-chain NFT platform for NFT issuance, NFT trading, NFT collections and tailored in-shop services.",
+    "website":"https://treasureland.market/",
+    "twitter":"https://twitter.com/TreasurelandNFT",
+    "telegram":""},
 
 
     "Nomad x Connext":
@@ -71,6 +90,15 @@
     "content":"Evmos.me allows users to interact with both the Cosmos and Ethereum ecosystems through a single unified and intuitive interface. Evmos Rektdrop participants will also be claiming rewards via Evmos.me.",
     "website":"https://evmos.me/",
     "twitter":"",
+    "telegram":""},
+
+    "Thorus":
+    {
+    "title":"Thorus",
+    "category":"defi",
+    "content":"All in one cross-chain #DeFi platform with an adaptable treasury system.",
+    "website":"https://thorus.fi/",
+    "twitter":"https://twitter.com/ThorusFI",
     "telegram":""},
 
     "GamyFi Platform":
@@ -99,6 +127,24 @@
     "website":"https://expanding.space",
     "twitter":"https://twitter.com/expanding_space",
     "telegram":"https://t.me/expandingspace"},
+
+    "Mintscan":
+    {
+    "title":"Mintscan",
+    "category":"explorer",
+    "content":"Developed by the Cosmostation, the Mintscan explorer supports the most Cosmos chains available including Evmos. It currently only supports Cosmos transactions but EVM transactions are on the roadmap.",
+    "website":"https://mintscan.com/evmos/",
+    "twitter":"",
+    "telegram":""},
+
+    "EVM Explorer":
+    {
+    "title":"EVM Explorer",
+    "category":"explorer",
+    "content":"Blockchain explorer for the Evmos Network.",
+    "website":"https://evm.evmos.org/",
+    "twitter":"",
+    "telegram":""},
     
     "Erc20 Module":
     {
