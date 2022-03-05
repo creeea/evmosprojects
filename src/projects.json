@@ -1,5 +1,15 @@
 {
-    
+    "Cronus Finance":
+    {
+    "title":"Cronus Finance",
+    "category":"defi",
+    "content":"Cronus Finance is a fully permissionless and composable AMM built on Evmos.",
+    "airdrop": "yes",
+    "website":"https://medium.com/@cronusfinance/announcing-cronus-finance-aa5579889060",
+    "twitter":"https://twitter.com/CronusFinance",
+    "telegram":""
+    },
+
     "Aave":
     {
     "title":"Aave",
@@ -9,11 +19,21 @@
     "twitter":"https://twitter.com/aaveaave",
     "telegram":"https://t.me/Aavesome"},
 
+    "Kinesis Labs":
+    {
+    "title":"Kinesis Labs",
+    "category":"defi",
+    "content":"Kinesis is the first stableswap on Evmos, aiming to bring the 180B stablecoin market to Cosmos. We allow users to swap stablecoins for other stablecoins at the lowest fees and the lowest slippage.",
+    "website":"https://kinesislabs.co/",
+    "twitter":"https://twitter.com/KinesisLabs",
+    "telegram":""},
+
     "Exswap":
     {
     "title":"Exswap",
     "category":"defi",
     "content":"Exswap is a community-focused Uniswap v2 fork launching on Evmos. Our goal is to be the #1 AMM and the go-to protocol for the Evmos ecosystem.",
+    "airdrop": "yes",
     "website":"https://medium.com/@exswap.xyz",
     "twitter":"https://twitter.com/Exswapdotxyz",
     "telegram":""},
@@ -27,20 +47,12 @@
     "twitter":"https://twitter.com/nomadxyz_",
     "telegram":""},
 
-    "Kinesis Labs":
-    {
-    "title":"Kinesis Labs",
-    "category":"defi",
-    "content":"Kinesis is the first stableswap on Evmos, aiming to bring the 180B stablecoin market to Cosmos. We allow users to swap stablecoins for other stablecoins at the lowest fees and the lowest slippage.",
-    "website":"https://kinesislabs.co/",
-    "twitter":"https://twitter.com/KinesisLabs",
-    "telegram":""},
-
     "Diffusion":
     {
     "title":"Diffusion Finance",
     "category":"defi",
     "content":"Diffusion is a Uniswap v2 fork. It’ll be one of the first AMMs for Evmos, an EVM on Cosmos that leverages the Cosmos SDK to enable use cases around composability, interoperability, and fast-finality.",
+    "airdrop": "yes",
     "website":"https://medium.com/@diffusion_fi",
     "twitter":"https://twitter.com/diffusion_fi",
     "telegram":"https://t.co/zyhlPO5Ucy"},
@@ -110,6 +122,15 @@
     "twitter":"https://twitter.com/GamyFi_HQ",
     "telegram":"https://t.me/GamyFi_ANN"},
 
+    "Disperze Wallet":
+    {
+    "title":"Disperze Wallet",
+    "category":"wallet",
+    "content":"Allows users to transfer, vote and stake their tokens using Keplr or Metamask extensión.",
+    "website":"https://evmos.disperze.network/",
+    "twitter":"xxx",
+    "telegram":"xxx"},
+
     "Metalancer":
     {
     "title":"Metalancer",
@@ -118,6 +139,15 @@
     "website":"",
     "twitter":"",
     "telegram":""},
+
+    "SpaceFi":
+    {
+    "title":"SpaceFi",
+    "category":"defo",
+    "content":"SpaceFi is a multichain deployed, community driven platform with DEX, NFT, Starter and DAO, on #Evmos & #Celo.",
+    "website":"http://spacefi.io/",
+    "twitter":"https://twitter.com/spacefi_io",
+    "telegram":"https://discord.io/spacefi"},
 
     "Expanding space":
     {
@@ -159,10 +189,21 @@
     {
     "title":"Coslend",
     "category":"defi",
-    "content":"A lending protocol on Evmos based on Compound Finance.",
-    "website":"https://t.me/coslend",
-    "twitter":"",
+    "content":"Coslend lending protocol is the first money market on Evmos Ecosystem based on Compound, one of the largest DeFi protocols. We are aiming to create a safe, open and transparent decentralized financial money market.",
+    "website":"https://coslend.com/",
+    "twitter":"https://twitter.com/coslend",
+    "github": "https://github.com/coslendteam",
+    "discord": "https://discord.gg/coslend",
     "telegram":""},
+
+    "Asteroids Money":
+    {
+    "title":"Asteroids Money",
+    "category":"defi",
+    "content":"First @tombfinance fork pegged to the price of 1 EVMOS floating in the cosmos. Comming soon.",
+    "website":"",
+    "twitter":"",
+    "telegram":"https://twitter.com/Asteroidsmoney/"},
 
     "PhotonSwap":
     {
@@ -218,15 +259,7 @@
     "twitter":"https://twitter.com/metamask/",
     "telegram":""},
 
-    "Cronus Finance":
-    {
-    "title":"Cronus Finance",
-    "category":"defi",
-    "content":"Cronus Finance is a fully permissionless and composable AMM built on Evmos.",
-    "website":"https://medium.com/@cronusfinance/announcing-cronus-finance-aa5579889060",
-    "twitter":"https://twitter.com/CronusFinance",
-    "telegram":""},
-
+    
     "Keplr":
     {
     "title":"Keplr",

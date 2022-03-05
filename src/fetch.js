@@ -30,6 +30,14 @@ async function create_cards(data, click_var){
             let website = JSON.stringify(data[property]['website']);
             website = website.replace(/['"]+/g, '')
 
+            let airdrop = JSON.stringify(data[property]['airdrop']);
+            try{
+            airdrop = airdrop.replace(/['"]+/g, '')
+            }
+            catch(e) {
+            airdrop = "no"  
+            }
+
             switch (click_var) {
                 case 'all':
                   break;
@@ -93,22 +101,30 @@ async function create_cards(data, click_var){
          
             <div class="card-footer text-center" style="background-color: #272c30;">
             <small class="text float-left" align="left" style="font-size: 16px; color: #249bde">${category}</small>
-            <small class="text float-right" align="right">
+            
             `
+            console.log("airdrop: " + airdrop)
+            if (airdrop != "no"){
+                project_card += `<a class="badge badge-secondary">airdrop </a>`
+
+            }
+            project_card += `<small class="text float-right" align="right">`
             console.log("website is" + website)
             if (website != ""){
                 console.log("website  empty")
-                project_card += ` <a type="button" class="fa fa-globe fa-2x" style="color: #777b7e" href='${website}' target="_blank"></a> &ensp;`
+                project_card += ` <a type="button" class="fa fa-globe fa-2x" style="color: #777b7e" href='${website}' target="_blank"></a> &nbsp `
 
             }
 
             if (telegram != "") {
-                project_card += `<a type="button" class="fa fa-telegram fa-2x" style="color: #777b7e" href='${telegram}' target="_blank"></a> &ensp;`
+                project_card += `<a type="button" class="fa fa-telegram fa-2x" style="color: #777b7e" href='${telegram}' target="_blank"></a> &nbsp `
             }
 
             if (twitter != "") {
-                project_card += `<a type="button" class="fa fa-twitter fa-2x" style="color: #777b7e" href='${twitter}' target="_blank"></a> &ensp;`
+                project_card += `<a type="button" class="fa fa-twitter fa-2x" style="color: #777b7e" href='${twitter}' target="_blank"></a> `
             }
+
+
            
             project_card += `
             
