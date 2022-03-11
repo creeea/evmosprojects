@@ -105,23 +105,36 @@ async function create_cards(data, click_var){
             `
             console.log("airdrop: " + airdrop)
             if (airdrop != "no"){
-                project_card += `<a class="badge badge-secondary">airdrop </a>`
+
+                if (airdrop.includes("https://")){
+                    project_card += `<a href="${airdrop}" target="_blank" class="badge badge-secondary">airdrop </a>`
+
+                }
+
+                else {
+
+                    project_card += `<a class="badge badge-secondary">airdrop </a>`
+
+                }
+
+                
+
 
             }
             project_card += `<small class="text float-right" align="right">`
             console.log("website is" + website)
             if (website != ""){
                 console.log("website  empty")
-                project_card += ` <a type="button" class="fa fa-globe fa-2x" style="color: #777b7e" href='${website}' target="_blank"></a> &nbsp `
+                project_card += ` <a type="button" class="fa fa-globe fa-2x pr-1" style="color: #777b7e" href='${website}' target="_blank"></a>`
 
             }
 
             if (telegram != "") {
-                project_card += `<a type="button" class="fa fa-telegram fa-2x" style="color: #777b7e" href='${telegram}' target="_blank"></a> &nbsp `
+                project_card += `<a type="button" class="fa fa-telegram fa-2x pr-1" style="color: #777b7e" href='${telegram}' target="_blank"></a>`
             }
 
             if (twitter != "") {
-                project_card += `<a type="button" class="fa fa-twitter fa-2x" style="color: #777b7e" href='${twitter}' target="_blank"></a> `
+                project_card += `<a type="button" class="fa fa-twitter fa-2x pr-1" style="color: #777b7e" href='${twitter}' target="_blank"></a>`
             }
 
 

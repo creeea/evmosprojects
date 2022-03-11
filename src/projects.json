@@ -4,7 +4,7 @@
     "title":"Cronus Finance",
     "category":"defi",
     "content":"Cronus Finance is a fully permissionless and composable AMM built on Evmos.",
-    "airdrop": "yes",
+    "airdrop": "https://medium.com/@cronusfinance/the-cronus-airdrop-e387aceca90c",
     "website":"https://medium.com/@cronusfinance/announcing-cronus-finance-aa5579889060",
     "twitter":"https://twitter.com/CronusFinance",
     "telegram":""
@@ -52,7 +52,7 @@
     "title":"Diffusion Finance",
     "category":"defi",
     "content":"Diffusion is a Uniswap v2 fork. It’ll be one of the first AMMs for Evmos, an EVM on Cosmos that leverages the Cosmos SDK to enable use cases around composability, interoperability, and fast-finality.",
-    "airdrop": "yes",
+    "airdrop": "https://twitter.com/diffusion_fi/status/1499109254791413760?s=20&t=t9z663wWF8NhdqhNvCel4w",
     "website":"https://medium.com/@diffusion_fi",
     "twitter":"https://twitter.com/diffusion_fi",
     "telegram":"https://t.co/zyhlPO5Ucy"},
@@ -113,6 +113,17 @@
     "twitter":"https://twitter.com/ThorusFI",
     "telegram":"https://t.co/RMnm8G2DrZ"},
 
+    "Evmos Name Service":
+    {
+    "title":"Evmos Name Service",
+    "category":"dapp",
+    "content":"The Evmos Name Services - coming soon. Website under development, stay tune.",
+    "airdrop": "no",
+    "website":"",
+    "twitter":"https://twitter.com/EvmosNS",
+    "discord": "",
+    "telegram":"https://twitter.com/EvmosNS"},
+
     "GamyFi Platform":
     {
     "title":"GamyFi Platform",
@@ -157,6 +168,26 @@
     "website":"https://expanding.space",
     "twitter":"https://twitter.com/expanding_space",
     "telegram":"https://t.me/expandingspace"},
+
+    "Chain Monitor":
+    {
+        "title":"Chain Monitor",
+        "category":"tools",
+        "content":"Chain monitor allows users to inspect all relevant blockchain information.",
+        "airdrop": "no",
+        "website":"https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?orgId=1&var-chain_id=evmos_9001-1",
+        "twitter":"https://twitter.com/crosnest_com",
+        "telegram":""},
+
+    "Basin Protocol":
+    {
+    "title":"Basin Protocol",
+    "category":"defi",
+    "content":"Liquid Staking for Evmos",
+    "airdrop": "no",
+    "website":"",
+    "twitter":"https://twitter.com/BasinProtocol",
+    "telegram":""},
 
     "Mintscan":
     {
