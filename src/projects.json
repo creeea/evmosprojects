@@ -89,6 +89,41 @@
     "twitter":"https://twitter.com/fraxfinance",
     "telegram":"https://t.me/fraxfinance"},
 
+    "Oasis Starter":
+    {
+    "title":"Oasis Starter",
+    "category":"dapp",
+    "content":"Cross chain decentralised launchpad where the community decides what project to list. Bridging the gaps to create a more free fundraising platform for all.",
+    "airdrop": "no",
+    "website":"https://oasisstarter.tech",
+    "twitter":"https://twitter.com/oasisstarter",
+    "discord": "",
+    "telegram":"https://t.me/oasisstarter"},
+
+    "Earnmos":
+    {
+    "title":"Earnmos",
+    "category":"defi",
+    "content":"First yield optimizer for Evmos and Cosmos Interchain Ecosystem",
+    "airdrop": "no",
+    "website":"https://earnmos.fi/",
+    "twitter":"https://twitter.com/Earnmos1",
+    "discord": "",
+    "telegram":""},
+
+
+    "Orbital Apes":
+    {
+    "title":"Orbital Apes",
+    "category":"nft",
+    "content":"10,000 Orbital Apes exploring the Cosmos Ecosystem. ",
+    "airdrop": "no",
+    "website":"https://www.orbitalapes.com/",
+    "twitter":"https://twitter.com/OrbitalApes",
+    "discord": "",
+    "telegram":""},
+
+
     "Treasureland":
     {
     "title":"Treasureland",
@@ -139,6 +174,28 @@
     "website":"https://evmos.me/",
     "twitter":"",
     "telegram":""},
+
+    "4T2":
+    {
+    "title":"4T2",
+    "category":"defi",
+    "content":"Stake Liquidity. Earn Enhanced Rewards.",
+    "airdrop": "no",
+    "website":"",
+    "twitter":"https://twitter.com/4T2_finance",
+    "discord": "",
+    "telegram":""},
+
+    "Revest":
+    {
+    "title":"Revest",
+    "category":"defi",
+    "content":"Mint Smart Vaults, earn rewards by staking RVST tokens and NFTs, and much more!xx",
+    "airdrop": "no",
+    "website":"https://revest.finance/",
+    "twitter":"https://twitter.com/RevestFinance",
+    "discord": "",
+    "telegram":"https://t.me/revestfinance"},
 
     "Thorus":
     {
