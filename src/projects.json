@@ -1,4 +1,26 @@
 {
+   
+
+    "Aave":
+    {
+    "title":"Aave",
+    "category":"defi",
+    "content":"Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets. Evmos will also enable cross-chain applications to leverage AAVE’s liquidity while being deployed to other Cosmos chains such as Terra.",
+    "website":"https://aave.com/",
+    "twitter":"https://twitter.com/aaveaave",
+    "telegram":"https://t.me/Aavesome"},
+
+    "Saddle Finance":
+    {
+    "title":"Saddle Finance",
+    "category":"defi",
+    "content":"Saddle is a decentralized automated market maker on the Evmos blockchain, optimized for pegged value crypto assets such as stablecoins and wrapped BTC. ",
+    "airdrop": "no",
+    "website":"https://saddle.finance/#/",
+    "twitter":"https://twitter.com/saddlefinance",
+    "discord": "https://discord.com/invite/saddle",
+    "telegram":"https://t.me/saddle_finance"},
+
     "Cronus Finance":
     {
     "title":"Cronus Finance",
@@ -9,15 +31,6 @@
     "twitter":"https://twitter.com/CronusFinance",
     "telegram":""
     },
-
-    "Aave":
-    {
-    "title":"Aave",
-    "category":"defi",
-    "content":"Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets. Evmos will also enable cross-chain applications to leverage AAVE’s liquidity while being deployed to other Cosmos chains such as Terra.",
-    "website":"https://aave.com/",
-    "twitter":"https://twitter.com/aaveaave",
-    "telegram":"https://t.me/Aavesome"},
 
     "Kinesis Labs":
     {
@@ -85,6 +98,29 @@
     "twitter":"https://twitter.com/TreasurelandNFT",
     "telegram":""},
 
+    "EvmoSwap":
+    {
+    "title":"EvmoSwap",
+    "category":"defi",
+    "content":"EvmoSwap is a decentralized exchange (DEX) on the Evmos Chain. Swap, earn, farm, and launch your projects, powered by DeFi.",
+    "airdrop": "no",
+    "website":"https://evmoswap.org/#",
+    "twitter":"https://twitter.com/evmoswap",
+    "discord": "https://discord.com/invite/QESVawAtgr",
+    "telegram":""},
+
+
+    "Avelin Protocol":
+    {
+    "title":"Avelin Protocol",
+    "category":"defi",
+    "content":"Decentralised Orderbook Exchange and Perps",
+    "airdrop": "no",
+    "website":"",
+    "twitter":"https://twitter.com/AvelinProtocol",
+    "discord": "",
+    "telegram":""},
+
 
     "Nomad x Connext":
     {
@@ -123,6 +159,18 @@
     "twitter":"https://twitter.com/EvmosNS",
     "discord": "",
     "telegram":"https://twitter.com/EvmosNS"},
+
+    "EvmnsOrg":
+    {
+    "title":"EvmnsOrg",
+    "category":"defi",
+    "content":"Evmos naming service.evm",
+    "airdrop": "no",
+    "website":"",
+    "twitter":"https://twitter.com/EvmnsOrg",
+    "discord": "https://discord.com/invite/exswap",
+    "telegram":""},
+
 
     "GamyFi Platform":
     {
@@ -235,6 +283,16 @@
     "website":"",
     "twitter":"",
     "telegram":"https://twitter.com/Asteroidsmoney/"},
+
+    "Evmosians":
+    {
+    "title":"Asteroids Money",
+    "category":"nft",
+    "content":"Evmosians NFTs collections will consist of many races and creatures. Each collection will have its own meaning and value.",
+    "website":"https://www.evmosians.com/",
+    "twitter":"https://twitter.com/evmosians",
+    "telegram":""},
+
 
     "PhotonSwap":
     {
