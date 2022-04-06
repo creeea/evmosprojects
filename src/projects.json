@@ -217,6 +217,26 @@
     "discord": "",
     "telegram":"https://twitter.com/EvmosNS"},
 
+    "Evmos Explorers":
+    {
+        "title":"Evmos Explorers",
+        "category":"NFT",
+        "content":"10000 Evmos Explorers doing their own thing on Evmos!",
+        "airdrop": "no",
+        "website":"https://evmosexplorers.com/",
+        "twitter":"https://twitter.com/evmosexplorers",
+        "telegram":"no"},
+
+        "Evmos Domains":
+    {
+        "title":"Evmos Domains",
+        "category":"defi",
+        "content":"Evmos Domains is a decentralized name service for linking .evmos names to data like addresses.",
+        "airdrop": "no",
+        "website":"https://evmos.domains/",
+        "twitter":"https://twitter.com/EvmosDomains",
+        "telegram":""},
+
     "EvmnsOrg":
     {
     "title":"EvmnsOrg",
