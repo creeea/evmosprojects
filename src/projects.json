@@ -41,24 +41,18 @@
     "twitter":"https://twitter.com/KinesisLabs",
     "telegram":""},
 
-    "Exswap":
+    
+    "DEX Screener":
     {
-    "title":"Exswap",
-    "category":"defi",
-    "content":"Exswap is a community-focused Uniswap v2 fork launching on Evmos. Our goal is to be the #1 AMM and the go-to protocol for the Evmos ecosystem.",
-    "airdrop": "yes",
-    "website":"https://medium.com/@exswap.xyz",
-    "twitter":"https://twitter.com/Exswapdotxyz",
-    "telegram":""},
-
-    "Coinbase Cloud":
-    {
-    "title":"Coinbase Cloud",
+    "title":"DEX Screener",
     "category":"tools",
-    "content":"Coinbase Cloud will provide Evmos developers with a high-throughput and reliable RPC cluster capable of handling at least five million calls a day. Developers will have the ability to subscribe to events utilizing an Ethereum Websocket that is exposed on their RPC cluster, allowing them to seamlessly port over their existing dApp workflows onto Evmos.",
-    "website":"",
-    "twitter":"https://twitter.com/nomadxyz_",
+    "content":"Tracking and charting Evmos",
+    "airdrop": "no",
+    "website":"https://dexscreener.com/evmos",
+    "twitter":"https://twitter.com/dexscreener",
+    "discord": "",
     "telegram":""},
+    
 
     "Diffusion":
     {
@@ -70,6 +64,30 @@
     "twitter":"https://twitter.com/diffusion_fi",
     "telegram":"https://t.co/zyhlPO5Ucy"},
 
+    
+    "FRAX":
+    {
+    "title":"FRAX",
+    "category":"defi",
+    "content":"FRAX provide users with greater accessibility to the DeFi ecosystem as stablecoins are pegged to fiat currencies but exist natively as cryptocurrency allowing for easy interaction with decentralized protocols. Evmos DeFi protocols will be able to integrate the FRAX stablecoin, offering users stability, reliability, and liquidity. ",
+    "website":"https://evmos.blog/frax-is-coming-to-evmos-61837abb2fa9",
+    "twitter":"https://twitter.com/fraxfinance",
+    "telegram":"https://t.me/fraxfinance"},
+
+    
+    "DefiLlama":
+    {
+    "title":"DefiLlama",
+    "category":"tools",
+    "content":"Open and transparent DeFi TVL and analytics.",
+    "airdrop": "no",
+    "website":"https://defillama.com/chain/Evmos",
+    "twitter":"https://twitter.com/DefiLlama",
+    "discord": "https://discord.gg/buPFYXzDDd",
+    "telegram":""},
+
+
+
     "NovaDAO":
     {
     "title":"NovaDAO",
@@ -79,15 +97,55 @@
     "twitter":"https://twitter.com/NovaDaoFinance",
     "telegram":""},
 
-
-    "FRAX":
+    "Commonwealth":
     {
-    "title":"FRAX",
+    "title":"Commonwealth",
+    "category":"tools",
+    "content":"Platform to discuss, organize, and grow the Evmos decentralized community",
+    "website":"https://commonwealth.im/evmos",
+    "twitter":"",
+    "telegram":""},
+    
+    "Flux":
+    {
+    "title":"Flux",
+    "category":"oracle",
+    "content":"Flux is the trustless data layer for web3. Flux is a cross-chain oracle that provides smart contracts with access to economically secure data feeds on anything.",
+    "website":"https://www.fluxprotocol.org/",
+    "twitter":"https://twitter.com/fluxprotocol",
+    "telegram":"https://t.me/fluxprotocol"},
+    
+    "Osmosis":
+    {
+    "title":"Osmosis",
     "category":"defi",
-    "content":"FRAX provide users with greater accessibility to the DeFi ecosystem as stablecoins are pegged to fiat currencies but exist natively as cryptocurrency allowing for easy interaction with decentralized protocols. Evmos DeFi protocols will be able to integrate the FRAX stablecoin, offering users stability, reliability, and liquidity. ",
-    "website":"https://evmos.blog/frax-is-coming-to-evmos-61837abb2fa9",
-    "twitter":"https://twitter.com/fraxfinance",
-    "telegram":"https://t.me/fraxfinance"},
+    "content":"Osmosis is a fair-launched, customizable automated market maker for interchain assets that allows the creation and management of non-custodial, self-balancing, interchain token index similar to one of Balancer.",
+    "website":"https://app.osmosis.zone/",
+    "twitter":"",
+    "telegram":"https://t.me/osmosis_chat"},
+    
+    "Gnosis Safe":
+    {
+    "title":"Gnosis Safe",
+    "category":"tools",
+    "content":"A fully customizable trusted multisig.",
+    "website":"https://gnosis-safe.io/",
+    "twitter":"https://twitter.com/gnosisSafe",
+    "telegram":""},
+    
+    
+
+    
+    "Exswap":
+    {
+    "title":"Exswap",
+    "category":"defi",
+    "content":"Exswap is a community-focused Uniswap v2 fork launching on Evmos. Our goal is to be the #1 AMM and the go-to protocol for the Evmos ecosystem.",
+    "airdrop": "yes",
+    "website":"https://medium.com/@exswap.xyz",
+    "twitter":"https://twitter.com/Exswapdotxyz",
+    "telegram":""},
+
 
     "Oasis Starter":
     {
@@ -111,6 +169,25 @@
     "discord": "",
     "telegram":""},
 
+    "tofuNFT":
+    {
+    "title":"tofuNFT",
+    "category":"nft",
+    "content":"tofuNFT is the largest multichain NFT marketplace for GameFi, DeFi and Collectibles. tofuNFT supports 25+ multiple chains, BNB, Ethereum, Avalanche, Polygon, Fantom, Arbitrum, Optimism and so on. We are not only BNB, Harmony, Arbitrum, Moonbeam and Astar’s No. 1 with a trading volume NFT Marketplace, but also top rank volume on several chains.",
+    "airdrop": "no",
+    "website":"https://tofunft.com",
+    "twitter":":https://twitter.com/tofuNFT",
+    "discord": "https://discord.gg/3wFUTZmTm7",
+    "telegram":":https://t.me/tofuNFT"},
+
+    "Coinbase Cloud":
+    {
+    "title":"Coinbase Cloud",
+    "category":"infra",
+    "content":"Coinbase Cloud will provide Evmos developers with a high-throughput and reliable RPC cluster capable of handling at least five million calls a day. Developers will have the ability to subscribe to events utilizing an Ethereum Websocket that is exposed on their RPC cluster, allowing them to seamlessly port over their existing dApp workflows onto Evmos.",
+    "website":"",
+    "twitter":"https://twitter.com/nomadxyz_",
+    "telegram":""},
 
     "Orbital Apes":
     {
@@ -304,6 +381,17 @@
         "twitter":"https://twitter.com/crosnest_com",
         "telegram":""},
 
+        "FoxWallet":
+        {
+            "title":"FoxWallet",
+            "category":"wallets",
+            "content":"FoxWallet is a safe and easy-to-use decentralized Web3 wallet, dedicated to creating an entrance and connection to the Web3 world.",
+            "airdrop": "no",
+            "website":"https://foxwallet.com/en",
+            "twitter":"https://twitter.com/FoxWallet",
+            "telegram":"https://t.me/FoxWallet_EN%22%7D"
+        },
+
     "Basin Protocol":
     {
     "title":"Basin Protocol",
@@ -339,6 +427,17 @@
     "content":"Our ERC20 module allows defi protocols to seamlessly integrate with Evmos and the Cosmos ecosystem. Using the x/erc20 module, developers can build smart contracts on Evmos and use the generated tokens for other applications in the Cosmos ecosystem",
     "website":"https://github.com/tharsis/evmos/tree/main/x/erc20/spec",
     "twitter":"",
+    "telegram":""},
+
+    "DForce":
+    {
+    "title":"DForce",
+    "category":"defi",
+    "content":"decentralized finance protocols covering assets, lending, and trading",
+    "airdrop": "no",
+    "website":"https://dforce.network/",
+    "twitter":"https://twitter.com/dForcenet",
+    "discord": "https://discord.com/invite/c2PC8SM",
     "telegram":""},
     
     "Coslend":
@@ -405,6 +504,28 @@
     "content":"Evmos blockchain stats about validators, inflation, bonded tokens and many more parameters.",
     "website":"https://evmostats.io/",
     "twitter":"",
+    "telegram":""},
+
+    "Perci Finance":
+    {
+    "title":"Perci Finance",
+    "category":"defi",
+    "content":"The First Borrowing Protocol on Evmos",
+    "airdrop": "no",
+    "website":"",
+    "twitter":"https://twitter.com/PerciFinance",
+    "discord": "http://discord.gg/Fh8EwbUzPx",
+    "telegram":""},
+
+    "Orbit Market":
+    {
+    "title":"Orbit Market",
+    "category":"nft",
+    "content":"First NFT Marketplace on EvmosOrg",
+    "airdrop": "no",
+    "website":"https://www.orbitmarket.io/",
+    "twitter":"https://twitter.com/OrbitMarketOS",
+    "discord": "",
     "telegram":""},
     
     "Cevmos":
