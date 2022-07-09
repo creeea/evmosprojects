@@ -115,9 +115,9 @@
     "twitter":"https://twitter.com/fluxprotocol",
     "telegram":"https://t.me/fluxprotocol"},
     
-    "Osmosis2":
+    "Osmosis":
     {
-    "title":"Osmosis",
+    "title":"Osmosis2",
     "category":"defi",
     "content":"Osmosis is a fair-launched, customizable automated market maker for interchain assets that allows the creation and management of non-custodial, self-balancing, interchain token index similar to one of Balancer.",
     "website":"https://app.osmosis.zone/",
