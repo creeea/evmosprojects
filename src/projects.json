@@ -115,7 +115,7 @@
     "twitter":"https://twitter.com/fluxprotocol",
     "telegram":"https://t.me/fluxprotocol"},
     
-    "Osmosis":
+    "Osmosis2":
     {
     "title":"Osmosis",
     "category":"defi",
@@ -123,6 +123,17 @@
     "website":"https://app.osmosis.zone/",
     "twitter":"",
     "telegram":"https://t.me/osmosis_chat"},
+
+    "Digifinex":
+    {
+    "title":"Digifinex",
+    "category":"CEX",
+    "content":"First CEX to list Evmos with the following trading pairs: EVMOS/USDT, EVMOS/ETH and EVMOS/BTC",
+    "airdrop": "no",
+    "website":"https://www.digifinex.com/",
+    "twitter":"https://twitter.com/digifinex",
+    "discord": "",
+    "telegram":"https://t.me/DigiFinexEN"},
     
     "Gnosis Safe":
     {
@@ -133,8 +144,6 @@
     "twitter":"https://twitter.com/gnosisSafe",
     "telegram":""},
     
-    
-
     
     "Exswap":
     {
