@@ -3,7 +3,7 @@
 
     "Aave":
     {
-    "title":"Aave2",
+    "title":"Aave",
     "category":"defi",
     "content":"Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets. Evmos will also enable cross-chain applications to leverage AAVE’s liquidity while being deployed to other Cosmos chains such as Terra.",
     "website":"https://aave.com/",
@@ -292,17 +292,6 @@
     "twitter":"https://twitter.com/ThorusFI",
     "telegram":"https://t.co/RMnm8G2DrZ"},
 
-    "Evmos Name Service":
-    {
-    "title":"Evmos Name Service",
-    "category":"dapp",
-    "content":"The Evmos Name Services - coming soon. Website under development, stay tune.",
-    "airdrop": "no",
-    "website":"",
-    "twitter":"https://twitter.com/EvmosNS",
-    "discord": "",
-    "telegram":"https://twitter.com/EvmosNS"},
-
     "Evmos Explorers":
     {
         "title":"Evmos Explorers",
@@ -322,17 +311,6 @@
         "website":"https://evmos.domains/",
         "twitter":"https://twitter.com/EvmosDomains",
         "telegram":""},
-
-    "EvmnsOrg":
-    {
-    "title":"EvmnsOrg",
-    "category":"defi",
-    "content":"Evmos naming service.evm",
-    "airdrop": "no",
-    "website":"",
-    "twitter":"https://twitter.com/EvmnsOrg",
-    "discord": "https://discord.com/invite/exswap",
-    "telegram":""},
 
 
     "GamyFi Platform":
