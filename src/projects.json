@@ -3,7 +3,7 @@
 
     "Aave":
     {
-    "title":"Aave",
+    "title":"Aave2",
     "category":"defi",
     "content":"Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets. Evmos will also enable cross-chain applications to leverage AAVE’s liquidity while being deployed to other Cosmos chains such as Terra.",
     "website":"https://aave.com/",
@@ -117,7 +117,7 @@
     
     "Osmosis":
     {
-    "title":"Osmosis2",
+    "title":"Osmosis",
     "category":"defi",
     "content":"Osmosis is a fair-launched, customizable automated market maker for interchain assets that allows the creation and management of non-custodial, self-balancing, interchain token index similar to one of Balancer.",
     "website":"https://app.osmosis.zone/",
