@@ -8,30 +8,8 @@
 
 
 <url>
-  <loc>https://tezosprojects.com/</loc>
+  <loc>https://evmos.space/</loc>
   <lastmod>2018-11-12T07:56:56+00:00</lastmod>
   <priority>1.00</priority>
 </url>
-<url>
-  <loc>https://tezosprojects.com/index.html</loc>
-  <lastmod>2018-11-12T07:56:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tezosprojects.com/dapp.html</loc>
-  <lastmod>2018-11-12T07:56:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tezosprojects.com/protocol.html</loc>
-  <lastmod>2018-11-12T07:56:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tezosprojects.com/other.html</loc>
-  <lastmod>2018-11-12T07:56:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
 </urlset>
