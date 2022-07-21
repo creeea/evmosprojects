@@ -83,6 +83,20 @@ async function create_cards(data, click_var){
                     else{
                         continue
                     }
+                case 'cex':
+                    if(click_var==category){
+                        break;
+                    }
+                    else{
+                        continue
+                    }
+                case 'incentives':
+                    if(click_var==category){
+                        break;
+                    }
+                    else{
+                        continue
+                    }
                 default:
                   continue
               }
