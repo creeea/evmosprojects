@@ -8,18 +8,18 @@
     "content":"Aave is an open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets. Evmos will also enable cross-chain applications to leverage AAVE’s liquidity while being deployed to other Cosmos chains such as Terra.",
     "website":"https://aave.com/",
     "twitter":"https://twitter.com/aaveaave",
-    "telegram":"https://t.me/Aavesome"},
+    "telegram":"https://t.me/Aavesome"
+    },
 
-    "Saddle Finance":
+    "Huobi Global":
     {
-    "title":"Saddle Finance",
-    "category":"defi",
-    "content":"Saddle is a decentralized automated market maker on the Evmos blockchain, optimized for pegged value crypto assets such as stablecoins and wrapped BTC. ",
+    "title":"Huobi Global",
+    "category":"cex",
+    "content":"Huobi Global is scheduled to list EVMOS (Evmos) on July 19, 2022.",
     "airdrop": "no",
-    "website":"https://saddle.finance/#/",
-    "twitter":"https://twitter.com/saddlefinance",
-    "discord": "https://discord.com/invite/saddle",
-    "telegram":"https://t.me/saddle_finance"},
+    "website":"https://www.huobi.com/support/en-us/detail/34912377216980",
+    "twitter":"https://twitter.com/HuobiGlobal",
+    "telegram":"https://t.me/huobiglobalofficial"},
 
 
     "Kinesis Labs":
@@ -42,7 +42,18 @@
     "twitter":"https://twitter.com/dexscreener",
     "discord": "",
     "telegram":""},
-    
+
+    "Staking":
+    {
+    "title":"Staking",
+    "category":"incentives",
+    "content":"The x/inflation module mints new Evmos tokens and allocates them in daily epochs to Evmos stakers.",
+    "airdrop": "no",
+    "website":"https://app.evmos.org/staking",
+    "twitter":"https://twitter.com/evmosorg",
+    "discord": "",
+    "telegram":""},
+
 
     "Diffusion":
     {
@@ -53,6 +64,28 @@
     "website":"https://medium.com/@diffusion_fi",
     "twitter":"https://twitter.com/diffusion_fi",
     "telegram":"https://t.co/zyhlPO5Ucy"},
+
+    "Osmosis-LP":
+    {
+    "title":"Osmosis-LP",
+    "category":"incentives",
+    "content":"600,000 Evmos are distributed over the course of 90 days for 14 day bonding time only on EVMOS/OSMO Pool 722. This would amount to ~6,666 Evmos per day in external rewards.",
+    "airdrop": "no",
+    "website":"https://app.osmosis.zone/pool/722",
+    "twitter":"",
+    "discord": "",
+    "telegram":""},
+
+
+    "Restake App":
+    {
+    "title":"Restake App",
+    "category":"tools",
+    "content":"REStake allows validators to auto-compound your staking rewards.",
+    "airdrop": "no",
+    "website":"https://restake.app/evmos",
+    "twitter":"",
+    "telegram":""},
 
     
     "FRAX":
@@ -76,8 +109,6 @@
     "discord": "https://discord.gg/buPFYXzDDd",
     "telegram":""},
 
-
-
     "NovaDAO":
     {
     "title":"NovaDAO",
@@ -87,12 +118,41 @@
     "twitter":"https://twitter.com/NovaDaoFinance",
     "telegram":""},
 
+    "Diffusion-Usage":
+    {
+    "title":"Diffusion-Usage",
+    "category":"incentives",
+    "content":"Diffusion smart contracts is whitelisted to get gas subsidies for their users for a period of six months (stops in November) in order to make it easier to onboard users to Evmos.25% of the Evmos block emission is going toward a pool dedicated to incentivizing users in the form of deferred Gas Rebates.",
+    "airdrop": "no",
+    "website":"https://www.mintscan.io/evmos/proposals/5",
+    "twitter":"https://twitter.com/diffusion_fi",
+    "telegram":"https://t.co/zyhlPO5Ucy"},
+
+
     "Commonwealth":
     {
     "title":"Commonwealth",
     "category":"tools",
     "content":"Platform to discuss, organize, and grow the Evmos decentralized community",
     "website":"https://commonwealth.im/evmos",
+    "twitter":"",
+    "telegram":""},
+
+    "Fireblocks":
+    {
+    "title":"Fireblocks",
+    "category":"tools",
+    "content":"Fireblocks is a digital asset custody, transfer and settlement platform. MPC-CMP wallet technology. 24/7 access.",
+    "website":"https://www.fireblocks.com/",
+    "twitter":"",
+    "telegram":""},
+
+    "EvmosJS":
+    {
+    "title":"EvmosJS",
+    "category":"tools",
+    "content":"JS and TS libs for Evmos.",
+    "website":"https://github.com/evmos/evmosjs",
     "twitter":"",
     "telegram":""},
     
@@ -128,13 +188,25 @@
     "Digifinex":
     {
     "title":"Digifinex",
-    "category":"CEX",
+    "category":"cex",
     "content":"First CEX to list Evmos with the following trading pairs: EVMOS/USDT, EVMOS/ETH and EVMOS/BTC",
     "airdrop": "no",
     "website":"https://www.digifinex.com/",
     "twitter":"https://twitter.com/digifinex",
     "discord": "",
     "telegram":"https://t.me/DigiFinexEN"},
+
+    "MEXC":
+    {
+    "title":"MEXC",
+    "category":"cex",
+    "content":"Centralized exchange for Evmos.",
+    "airdrop": "no",
+    "website":"https://www.mexc.com/exchange/EVMOS_USDT",
+    "twitter":"https://twitter.com/MEXC_Global",
+    "discord": "",
+    "telegram":""},
+
     
     "Gnosis Safe":
     {
