@@ -21,16 +21,6 @@
     "discord": "https://discord.com/invite/saddle",
     "telegram":"https://t.me/saddle_finance"},
 
-    "Cronus Finance":
-    {
-    "title":"Cronus Finance",
-    "category":"defi",
-    "content":"Cronus Finance is a fully permissionless and composable AMM built on Evmos.",
-    "airdrop": "https://medium.com/@cronusfinance/the-cronus-airdrop-e387aceca90c",
-    "website":"https://medium.com/@cronusfinance/announcing-cronus-finance-aa5579889060",
-    "twitter":"https://twitter.com/CronusFinance",
-    "telegram":""
-    },
 
     "Kinesis Labs":
     {
@@ -124,6 +114,17 @@
     "twitter":"",
     "telegram":"https://t.me/osmosis_chat"},
 
+    "Demex":
+    {
+    "title":"Demex",
+    "category":"defi",
+    "content":"The Order Book DEX for the Cosmos and Ethereum Ecosystem.",
+    "airdrop": "no",
+    "website":"https://app.dem.exchange/trade/EVMOS_SWTH",
+    "twitter":"https://twitter.com/demexchange",
+    "discord": "",
+    "telegram":"https://t.me/switcheoANN"},
+
     "Digifinex":
     {
     "title":"Digifinex",
@@ -145,6 +146,17 @@
     "telegram":""},
     
     
+    "Cronus Finance":
+    {
+    "title":"Cronus Finance",
+    "category":"defi",
+    "content":"Cronus Finance is a fully permissionless and composable AMM built on Evmos.",
+    "airdrop": "https://medium.com/@cronusfinance/the-cronus-airdrop-e387aceca90c",
+    "website":"https://medium.com/@cronusfinance/announcing-cronus-finance-aa5579889060",
+    "twitter":"https://twitter.com/CronusFinance",
+    "telegram":""
+    },
+
     "Exswap":
     {
     "title":"Exswap",
